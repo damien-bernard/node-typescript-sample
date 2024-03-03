@@ -16,7 +16,7 @@ npm run build
 Pour lancer l'application, il faut exécuter la commande suivante :
 
 ```bash
-node ./dist/01-readdir/index.js
+node ./dist/01-fs-readdir/index.js
 ```
 
 # 02 - readdirsync
@@ -24,5 +24,13 @@ node ./dist/01-readdir/index.js
 Pour lancer l'application, il faut exécuter la commande suivante :
 
 ```bash
-node ./dist/02-readdirsync/index.js
+node ./dist/02-fs-readdirsync/index.js
+```
+
+# 03 - stat
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/03-fs-stat/index.js
 ```

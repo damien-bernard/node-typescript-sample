@@ -4,10 +4,10 @@ import fs from 'fs'
 
 const path: string = process.argv.length === 3 ? process.argv[2] : '.'
 
-fs.readdir(path, (err, file) => {
+fs.readdir(path, (err, files) => {
   if (err != null) {
     console.error(err)
     return
   }
-  console.log(file)
+  console.log(files)
 })
