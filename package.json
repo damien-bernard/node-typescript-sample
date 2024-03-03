@@ -7,6 +7,10 @@
     "./01-readdir": {
       "import": "./dist/01-readdir/index.js",
       "types": "./dist/01-readdir/index.d.ts"
+    },
+    "./02-readdirsync": {
+      "import": "./dist/02-readdirsync/index.js",
+      "types": "./dist/02-readdirsync/index.d.ts"
     }
   },
   "scripts": {

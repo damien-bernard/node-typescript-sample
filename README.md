@@ -18,3 +18,11 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 ```bash
 node ./dist/01-readdir/index.js
 ```
+
+# 02 - readdirsync
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/02-readdirsync/index.js
+```
