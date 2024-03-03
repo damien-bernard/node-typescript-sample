@@ -4,13 +4,17 @@
   "description": "Sample d'application Node.js & TypeScript",
   "type": "module",
   "exports": {
-    "./01-readdir": {
-      "import": "./dist/01-readdir/index.js",
-      "types": "./dist/01-readdir/index.d.ts"
+    "./01-fs-readdir": {
+      "import": "./dist/01-fs-readdir/index.js",
+      "types": "./dist/01-fs-readdir/index.d.ts"
     },
-    "./02-readdirsync": {
-      "import": "./dist/02-readdirsync/index.js",
-      "types": "./dist/02-readdirsync/index.d.ts"
+    "./02-fs-readdirsync": {
+      "import": "./dist/02-fs-readdirsync/index.js",
+      "types": "./dist/02-fs-readdirsync/index.d.ts"
+    },
+    "./03-fs-stat": {
+      "import": "./dist/03-fs-stat/index.js",
+      "types": "./dist/03-fs-stat/index.d.ts"
     }
   },
   "scripts": {
