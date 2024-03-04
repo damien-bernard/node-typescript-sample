@@ -15,6 +15,10 @@
     "./03-fs-stat": {
       "import": "./dist/03-fs-stat/index.js",
       "types": "./dist/03-fs-stat/index.d.ts"
+    },
+    "./04-fs-readfile": {
+      "import": "./dist/04-fs-readfile/index.js",
+      "types": "./dist/04-fs-readfile/index.d.ts"
     }
   },
   "scripts": {

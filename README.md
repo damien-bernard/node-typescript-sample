@@ -34,3 +34,11 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 ```bash
 node ./dist/03-fs-stat/index.js
 ```
+
+# 04 - readfile
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/04-fs-readfile/index.js
+```
