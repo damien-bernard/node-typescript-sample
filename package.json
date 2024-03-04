@@ -19,6 +19,10 @@
     "./04-fs-readfile": {
       "import": "./dist/04-fs-readfile/index.js",
       "types": "./dist/04-fs-readfile/index.d.ts"
+    },
+    "./05-fs-readfilesync": {
+      "import": "./dist/05-fs-readfilesync/index.js",
+      "types": "./dist/05-fs-readfilesync/index.d.ts"
     }
   },
   "scripts": {
