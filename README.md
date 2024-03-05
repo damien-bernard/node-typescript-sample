@@ -58,3 +58,11 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 ```bash
 node ./dist/06-exec/index.js
 ```
+
+# 07 - execsync
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/07-execsync/index.js
+```
