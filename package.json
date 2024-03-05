@@ -23,6 +23,10 @@
     "./05-fs-readfilesync": {
       "import": "./dist/05-fs-readfilesync/index.js",
       "types": "./dist/05-fs-readfilesync/index.d.ts"
+    },
+    "./06-exec": {
+      "import": "./dist/06-exec/index.js",
+      "types": "./dist/06-exec/index.d.ts"
     }
   },
   "scripts": {

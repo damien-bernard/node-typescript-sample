@@ -42,10 +42,19 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 ```bash
 node ./dist/04-fs-readfile/index.js
 ```
+
 # 05 - readfilesync
 
 Pour lancer l'application, il faut exécuter la commande suivante :
 
 ```bash
 node ./dist/05-fs-readfilesync/index.js
+```
+
+# 06 - exec
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/06-exec/index.js
 ```
