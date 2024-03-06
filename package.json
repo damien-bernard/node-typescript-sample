@@ -31,6 +31,10 @@
     "./07-execsync": {
       "import": "./dist/07-execsync/index.js",
       "types": "./dist/07-execsync/index.d.ts"
+    },
+    "./08-exec-promisify": {
+      "import": "./dist/08-exec-promisify/index.js",
+      "types": "./dist/08-exec-promisify/index.d.ts"
     }
   },
   "scripts": {

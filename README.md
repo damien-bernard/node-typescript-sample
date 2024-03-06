@@ -66,3 +66,11 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 ```bash
 node ./dist/07-execsync/index.js
 ```
+
+# 08 - exec promisify
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/08-exec-promisify/index.js
+```
