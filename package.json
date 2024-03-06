@@ -35,6 +35,10 @@
     "./08-exec-promisify": {
       "import": "./dist/08-exec-promisify/index.js",
       "types": "./dist/08-exec-promisify/index.d.ts"
+    },
+    "./09-fs-exist-sync": {
+      "import": "./dist/09-fs-exist-sync/index.js",
+      "types": "./dist/09-fs-exist-sync/index.d.ts"
     }
   },
   "scripts": {
