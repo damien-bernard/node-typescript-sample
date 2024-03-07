@@ -75,10 +75,18 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 node ./dist/08-exec-promisify/index.js
 ```
 
-# 03 - exist sync
+# 09 - exist sync
 
 Pour lancer l'application, il faut exécuter la commande suivante :
 
 ```bash
 node ./dist/09-fs-exist-sync/index.js
+```
+
+# 10 - mkdir
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/10-fs-mkdir/index.js
 ```

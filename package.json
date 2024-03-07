@@ -39,6 +39,10 @@
     "./09-fs-exist-sync": {
       "import": "./dist/09-fs-exist-sync/index.js",
       "types": "./dist/09-fs-exist-sync/index.d.ts"
+    },
+    "./10-fs-mkdir": {
+      "import": "./dist/10-fs-mkdir/index.js",
+      "types": "./dist/10-fs-mkdir/index.d.ts"
     }
   },
   "scripts": {
