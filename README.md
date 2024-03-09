@@ -90,3 +90,11 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 ```bash
 node ./dist/10-fs-mkdir/index.js
 ```
+
+# 11 - mkdir sync
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/11-fs-mkdir-sync/index.js
+```

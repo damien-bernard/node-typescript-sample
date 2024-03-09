@@ -43,6 +43,10 @@
     "./10-fs-mkdir": {
       "import": "./dist/10-fs-mkdir/index.js",
       "types": "./dist/10-fs-mkdir/index.d.ts"
+    },
+    "./11-fs-mkdir-sync": {
+      "import": "./dist/11-fs-mkdir-sync/index.js",
+      "types": "./dist/11-fs-mkdir-sync/index.d.ts"
     }
   },
   "scripts": {
