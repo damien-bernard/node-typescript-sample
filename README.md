@@ -99,10 +99,18 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 node ./dist/11-fs-mkdir-sync/index.js
 ```
 
-# 12 - rmdir sync
+# 12 - rmdir
 
 Créer un répertoire `directory-to-delete` puis lancer l'application via la commande suivante :
 
 ```bash
-node ./dist/12-fs-rmdir-sync/index.js
+node ./dist/12-fs-rmdir/index.js
+```
+
+# 13 - rmdir sync
+
+Créer un répertoire `directory-to-delete` puis lancer l'application via la commande suivante :
+
+```bash
+node ./dist/13-fs-rmdir-sync/index.js
 ```

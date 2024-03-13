@@ -48,9 +48,13 @@
       "import": "./dist/11-fs-mkdir-sync/index.js",
       "types": "./dist/11-fs-mkdir-sync/index.d.ts"
     },
-    "./12-fs-rmdir-sync": {
-      "import": "./dist/12-fs-rmdir-sync/index.js",
-      "types": "./dist/12-fs-rmdir-sync/index.d.ts"
+    "./12-fs-rmdir": {
+      "import": "./dist/12-fs-rmdir/index.js",
+      "types": "./dist/12-fs-rmdir/index.d.ts"
+    },
+    "./13-fs-rmdir-sync": {
+      "import": "./dist/13-fs-rmdir-sync/index.js",
+      "types": "./dist/13-fs-rmdir-sync/index.d.ts"
     }
   },
   "scripts": {
