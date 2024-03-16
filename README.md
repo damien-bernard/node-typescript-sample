@@ -13,104 +13,28 @@ npm run build
 
 # 01 - readdir
 
-Pour lancer l'application, il faut exécuter la commande suivante :
+Pour lire le contenu d'un répertoire.
 
-```bash
-node ./dist/01-fs-readdir/index.js
-```
+# 02 - stat
 
-# 02 - readdirsync
+Pour lister le contenu d'un répertoire avec des informations sur les fichiers.
 
-Pour lancer l'application, il faut exécuter la commande suivante :
+# 03 - readFile
 
-```bash
-node ./dist/02-fs-readdirsync/index.js
-```
+Pour lire le contenu d'un fichier.
 
-# 03 - stat
+# 04 - exec
 
-Pour lancer l'application, il faut exécuter la commande suivante :
+Pour exécuter une commande shell.
 
-```bash
-node ./dist/03-fs-stat/index.js
-```
+# 05 - exists
 
-# 04 - readfile
+Pour vérifier si un fichier ou un répertoire existe.
 
-Pour lancer l'application, il faut exécuter la commande suivante :
+# 06 - mkdir
 
-```bash
-node ./dist/04-fs-readfile/index.js
-```
+Pour créer un répertoire.
 
-# 05 - readfilesync
+# 07 - rmdir
 
-Pour lancer l'application, il faut exécuter la commande suivante :
-
-```bash
-node ./dist/05-fs-readfilesync/index.js
-```
-
-# 06 - exec
-
-Pour lancer l'application, il faut exécuter la commande suivante :
-
-```bash
-node ./dist/06-exec/index.js
-```
-
-# 07 - execsync
-
-Pour lancer l'application, il faut exécuter la commande suivante :
-
-```bash
-node ./dist/07-execsync/index.js
-```
-
-# 08 - exec promisify
-
-Pour lancer l'application, il faut exécuter la commande suivante :
-
-```bash
-node ./dist/08-exec-promisify/index.js
-```
-
-# 09 - exist sync
-
-Pour lancer l'application, il faut exécuter la commande suivante :
-
-```bash
-node ./dist/09-fs-exist-sync/index.js
-```
-
-# 10 - mkdir
-
-Pour lancer l'application, il faut exécuter la commande suivante :
-
-```bash
-node ./dist/10-fs-mkdir/index.js
-```
-
-# 11 - mkdir sync
-
-Pour lancer l'application, il faut exécuter la commande suivante :
-
-```bash
-node ./dist/11-fs-mkdir-sync/index.js
-```
-
-# 12 - rmdir
-
-Créer un répertoire `directory-to-delete` puis lancer l'application via la commande suivante :
-
-```bash
-node ./dist/12-fs-rmdir/index.js
-```
-
-# 13 - rmdir sync
-
-Créer un répertoire `directory-to-delete` puis lancer l'application via la commande suivante :
-
-```bash
-node ./dist/13-fs-rmdir-sync/index.js
-```
+Pour supprimer un répertoire.

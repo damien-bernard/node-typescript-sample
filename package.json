@@ -3,60 +3,6 @@
   "version": "0.0.1",
   "description": "Sample d'application Node.js & TypeScript",
   "type": "module",
-  "exports": {
-    "./01-fs-readdir": {
-      "import": "./dist/01-fs-readdir/index.js",
-      "types": "./dist/01-fs-readdir/index.d.ts"
-    },
-    "./02-fs-readdirsync": {
-      "import": "./dist/02-fs-readdirsync/index.js",
-      "types": "./dist/02-fs-readdirsync/index.d.ts"
-    },
-    "./03-fs-stat": {
-      "import": "./dist/03-fs-stat/index.js",
-      "types": "./dist/03-fs-stat/index.d.ts"
-    },
-    "./04-fs-readfile": {
-      "import": "./dist/04-fs-readfile/index.js",
-      "types": "./dist/04-fs-readfile/index.d.ts"
-    },
-    "./05-fs-readfilesync": {
-      "import": "./dist/05-fs-readfilesync/index.js",
-      "types": "./dist/05-fs-readfilesync/index.d.ts"
-    },
-    "./06-exec": {
-      "import": "./dist/06-exec/index.js",
-      "types": "./dist/06-exec/index.d.ts"
-    },
-    "./07-execsync": {
-      "import": "./dist/07-execsync/index.js",
-      "types": "./dist/07-execsync/index.d.ts"
-    },
-    "./08-exec-promisify": {
-      "import": "./dist/08-exec-promisify/index.js",
-      "types": "./dist/08-exec-promisify/index.d.ts"
-    },
-    "./09-fs-exist-sync": {
-      "import": "./dist/09-fs-exist-sync/index.js",
-      "types": "./dist/09-fs-exist-sync/index.d.ts"
-    },
-    "./10-fs-mkdir": {
-      "import": "./dist/10-fs-mkdir/index.js",
-      "types": "./dist/10-fs-mkdir/index.d.ts"
-    },
-    "./11-fs-mkdir-sync": {
-      "import": "./dist/11-fs-mkdir-sync/index.js",
-      "types": "./dist/11-fs-mkdir-sync/index.d.ts"
-    },
-    "./12-fs-rmdir": {
-      "import": "./dist/12-fs-rmdir/index.js",
-      "types": "./dist/12-fs-rmdir/index.d.ts"
-    },
-    "./13-fs-rmdir-sync": {
-      "import": "./dist/13-fs-rmdir-sync/index.js",
-      "types": "./dist/13-fs-rmdir-sync/index.d.ts"
-    }
-  },
   "scripts": {
     "clean": "tsc --build --clean",
     "build": "tsc --build",
@@ -73,7 +19,13 @@
     "node",
     "typescript",
     "sample",
-    "readdir"
+    "readdir",
+    "stat",
+    "readfile",
+    "exec",
+    "exist",
+    "mkdir",
+    "rmdir"
   ],
   "author": "Damien Bernard",
   "repository": {
