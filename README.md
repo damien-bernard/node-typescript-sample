@@ -23,9 +23,9 @@ Pour lister le contenu d'un répertoire avec des informations sur les fichiers.
 
 Pour lire le contenu d'un fichier.
 
-# 04 - exec
+# 04 - writeFile
 
-Pour exécuter une commande shell.
+Pour écrire dans un fichier.
 
 # 05 - exists
 
@@ -38,3 +38,7 @@ Pour créer un répertoire.
 # 07 - rmdir
 
 Pour supprimer un répertoire.
+
+# 08 - exec
+
+Pour exécuter une commande shell.
